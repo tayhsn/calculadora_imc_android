@@ -38,8 +38,7 @@ class MainActivity : AppCompatActivity() {
         binding.btnDownload.hide()
             // calculate
         binding.btnCalcular.setOnClickListener{ calculateIMC() }
-            // on enter hide keyboard //TODO not working
-        binding.inputAltura.setOnKeyListener { view, keyCode, _ -> handleKeyEvent(view, keyCode) }
+            // on enter hide keyboard
         binding.inputPeso.setOnKeyListener { view, keyCode, _ -> handleKeyEvent(view, keyCode) }
 
         // PERMISSIONS TO SCREENSHOT
@@ -100,7 +99,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     // FUNCTION FOR HIDE THE KEYBOARD ON ENTER CLICK
-    //TODO here is not working
     private fun handleKeyEvent(view: View, keyCode: Int): Boolean {
         if (keyCode == KeyEvent.KEYCODE_ENTER) {
             // Hide the keyboard
