@@ -32,7 +32,7 @@ class MainActivity : AppCompatActivity() {
         // Binding elements
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
-        
+
         // Accessing elements
              //hide btn download
         binding.btnDownload.hide()
@@ -46,7 +46,7 @@ class MainActivity : AppCompatActivity() {
         ActivityCompat.requestPermissions(this, arrayOf(Manifest.permission.WRITE_EXTERNAL_STORAGE), 1)
         ActivityCompat.requestPermissions(this, arrayOf(Manifest.permission.READ_EXTERNAL_STORAGE), 1)
 
-        binding.btnDownload.setOnClickListener{
+        binding.btnDownload.setOnClickListener {
             // SCREENSHOT
             val bitmap = getScreenShotFromView(binding.card)
             // IF EXISTS, SAVE

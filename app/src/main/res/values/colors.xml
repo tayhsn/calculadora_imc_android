@@ -3,9 +3,13 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-    <color name="blue_light">#4A6572</color>
-    <color name="blue_medium">#232f34 </color>
-    <color name="blue_dark">#344955</color>
-    <color name="orange">#F9AA33</color>
+    <color name="green_light">#2f8282</color>
+    <color name="green_medium">#62b2b1 </color>
+    <color name="green_dark">#005556</color>
+
+    <color name="blue_light">#567c7c</color>
+    <color name="blue_medium">#84abab </color>
+    <color name="blue_dark">#2a5050</color>
+
 
 </resources>
