@@ -3,9 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Tayanne/Documents/workspace/AndroidStudioProjects/calculadora_imc/app/src/main/res/drawable/ic_baseline_calculate_24.xml" value="0.1" />
+        <entry key="..\:/Users/Tayanne/Documents/workspace/AndroidStudioProjects/calculadora_imc/app/src/main/res/drawable/ic_baseline_cloud_download_24.xml" value="0.1" />
         <entry key="..\:/Users/Tayanne/Documents/workspace/AndroidStudioProjects/calculadora_imc/app/src/main/res/drawable/ic_baseline_download_24.xml" value="0.25885416666666666" />
-        <entry key="..\:/Users/Tayanne/Documents/workspace/AndroidStudioProjects/calculadora_imc/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Tayanne/Documents/workspace/AndroidStudioProjects/calculadora_imc/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/Tayanne/Documents/workspace/AndroidStudioProjects/calculadora_imc/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/Tayanne/Documents/workspace/AndroidStudioProjects/calculadora_imc/app/src/main/res/layout/result.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/Tayanne/Documents/workspace/AndroidStudioProjects/calculadora_imc/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
       </map>
     </option>
   </component>

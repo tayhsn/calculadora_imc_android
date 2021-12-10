@@ -3,9 +3,9 @@
     <string name="altura_input">Altura:</string>
     <string name="peso_input">Peso:</string>
     <string name="btn_calcular">Calcular</string>
-    <string name="title_main">Calcule seu IMC</string>
-    <string name="subtitle_main">Índice de Massa Corporal \n É um cálculo utilizado para saber se o seu peso está de acordo com a sua altura, identificando a classificação entre peso ideal, sobrepeso, obesidade ou desnutrição, o que pode interferir diretamente na sua qualidade de vida.</string>
+    <string name="title_main">Calculadora</string>
+    <string name="subtitle_main">Índice de Massa Corporal</string>
     <string name="indice">Índice: %s</string>
-    <string name="classificacao">Classificação: %s</string>
+    <string name="classificacao">%s</string>
     <string name="download">Baixar</string>
 </resources>
